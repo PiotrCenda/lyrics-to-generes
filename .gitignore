@@ -1,7 +1,7 @@
 # project 
 data/
 data_cleaned/
-
+wiki-news-300d-1M-subword.vec
 
 # python
 # Byte-compiled / optimized / DLL files
