@@ -2,6 +2,8 @@
 data/
 data_cleaned/
 pretrained_embeddings/
+model_logging/
+models/
 
 # python
 # Byte-compiled / optimized / DLL files
